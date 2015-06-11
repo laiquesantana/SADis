@@ -1,6 +1,4 @@
 # SADis
-SADis
-SADisWeb
 =====
 
 Sistema de Aproveitamento de Disciiplinas - UFBA
